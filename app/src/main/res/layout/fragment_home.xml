@@ -8,6 +8,9 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Hello" />
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:text="Let' start"
+        android:gravity="center_horizontal" />
 
 </FrameLayout>
