@@ -10,4 +10,8 @@
     <string name="restart_button">Restart</string>
     <string name="province">province</string>
     <string name="city">city</string>
+    <string name="button">Click me</string>
+    <string name="textView">Hello World!</string>
+    <string name="clicked">I am Clicked</string>
+
 </resources>
