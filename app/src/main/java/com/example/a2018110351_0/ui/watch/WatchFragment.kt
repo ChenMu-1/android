@@ -17,7 +17,6 @@ class WatchFragment : Fragment() {
     }
 
 
-
     private lateinit var viewModel: WatchViewModel
 
     override fun onCreateView(
