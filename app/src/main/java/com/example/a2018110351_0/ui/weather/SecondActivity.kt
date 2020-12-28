@@ -7,8 +7,8 @@ import androidx.appcompat.app.AppCompatActivity
 import com.android.volley.toolbox.StringRequest
 import com.android.volley.toolbox.Volley
 import com.example.a2018110351_0.R
-import com.example.weather.weather.Forecast
-import com.example.weather.weather.weather
+import com.example.a2018110351_0.ui.weather.weather1.Forecast
+import com.example.a2018110351_0.ui.weather.weather1.weather
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 

@@ -16,9 +16,7 @@ class WatchFragment : Fragment() {
         fun newInstance() = WatchFragment()
     }
 
-
     private lateinit var viewModel: WatchViewModel
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
